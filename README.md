@@ -9,7 +9,7 @@ Sample website with plenty of files for demos
 ## How to contribute
 
 This is how you contribute!
-Let's do it!
+Let's do it! Again! And Again...
 
 ## Deployment
 
